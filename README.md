@@ -1,1 +1,1 @@
-#This website is wibe coded
+#This website is vibe coded
